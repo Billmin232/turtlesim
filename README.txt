@@ -6,4 +6,4 @@ En la carpeta ros2_ws utilitzo la commanda
 
 S'ha de tenir turtlesim obert previament
 
-Falta fer la "turtle3" i moure-la amb Pose per dibuixar unes montañes
+Falta moure turtle3 amb Pose per dibuixar unes montañes
