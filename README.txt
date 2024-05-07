@@ -7,3 +7,9 @@ En la carpeta ros2_ws utilitzo la commanda
 S'ha de tenir turtlesim obert previament
 
 Falta moure turtle3 amb Pose per dibuixar unes montañes
+
+Com fer un commit al GitHub
+	en la carpeta controller
+		git add *
+		git commit -m "<Comentari dels cambis fets>"
+		git push -u origin main
